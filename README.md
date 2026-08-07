@@ -33,9 +33,6 @@
 > [!IMPORTANT]
 > 본 연구는 병원 수준 공개자료를 이용한 **통계적 관련성 분석**이다. 회귀계수는 인과효과, 의료행위의 효과 또는 특정 병원의 우열을 의미하지 않는다.
 
-<p align="center">
-  <img src="figure_img/figure_01_research_model_simple.png" width="760" alt="Research model">
-</p>
 
 ---
 
@@ -685,10 +682,6 @@ SH-Hospital_Management_Analysis/
 - 평가연도 매칭 의료질지수는 기준 통합모형, 연도별 단면분석, 재무시점 변경, 지수구성 변경 및 영향점 제외 분석에서 일관된 양의 관련성을 보였다.
 - Random Effects에서는 의료질지수의 양의 관련성이 유지되었으나, Two-Way Fixed Effects에서는 통계적 유의성이 확인되지 않았다.
 - 따라서 핵심 결과는 동일 병원 내부의 단기 변화효과가 아니라, **병원 간 적정성평가 수준과 환자경험평가 간 통계적 관련성**으로 제한하여 해석한다.
-
-<p align="center">
-  <img src="figure_img/figure_04_quality_vs_patient_experience_scatter.png" width="680" alt="Quality index and patient experience">
-</p>
 
 ---
 
